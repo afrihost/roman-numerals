@@ -38,4 +38,4 @@ The aim of the Roman numerals code kata is to create a conversion tool that will
 - Must be able to covert 500, should be converted to D
 - Must be able to covert 1000, should be converted to M
 - Must be able to covert 1999, should be converted to MCMXCIX
-- Must be able to covert 4999, should be converted to MMMMCMXC
+- Must be able to covert 4990, should be converted to MMMMCMXC
