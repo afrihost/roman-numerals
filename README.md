@@ -28,7 +28,7 @@ The aim of the Roman numerals code kata is to create a conversion tool that will
 - Must be able to covert 4, should be converted to IV
 - Must be able to covert 5, should be converted to V
 - Must be able to covert 6, should be converted to VI
-- Must be able to covert 9, should be converted to XI
+- Must be able to covert 9, should be converted to IX
 - Must be able to covert 10, should be converted to X
 - Must be able to covert 11, should be converted to XI
 - Must be able to covert 20, should be converted to XX
